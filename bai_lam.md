@@ -1,10 +1,10 @@
 # BÀI LÀM – HACKATHON 02
 
-- **Mã đề:** 01
-- **Họ tên:**
-- **Lớp:**
-- **Link repository:**
-- **Hệ điều hành (Windows/macOS):**
+- **Mã đề:De Thi 01 IT108 Hackathon02** 01
+- **Họ tên:Nguyễn Duy Minh Hà**
+- **Lớp:HCM-CNTT01**
+- **Link repository:https://github.com/IT101-CNTT1-K26-Subject/HCM-KS26-CNTT1_Nhap-mon-CNTT_Hackathon02.git**
+- **Hệ điều hành (Windows/macOS): Windows**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
 
@@ -20,7 +20,6 @@ rm *.tmp
 cd .\logs\
 ls
 cd ..
-
 
 ```
 
